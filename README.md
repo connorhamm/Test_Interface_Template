@@ -13,5 +13,6 @@ To Do:
 5. Add an output for pass and fail
 6. Add a button for opening logs
 7. hello?
+8. Testing Sync
 
 
