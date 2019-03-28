@@ -8,4 +8,4 @@ To Do:
 4. Implement simple test scripts in seperate file into button functionality
 5. Add an output for pass and fail
 6. Add a button for opening logs
-
+7. hello?
